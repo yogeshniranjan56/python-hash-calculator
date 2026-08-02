@@ -34,7 +34,6 @@ Enter the complete file path when prompted.
 
 **Yogesh Niranjan**
 
-M.Sc. Forensic Science | Digital Forensics Enthusiast
 
 
 
