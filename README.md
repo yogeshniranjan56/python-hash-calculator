@@ -1,2 +1,5 @@
-# python-hash-calculator
-A basic Digital Forensics tool to calculate MD5, SHA1 and SHA256 hashes using Python.
+# Python Hash Calculator
+
+A Digital Forensics tool developed in Python for calculating MD5, SHA1 and SHA256 hashes.
+
+
