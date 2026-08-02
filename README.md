@@ -28,7 +28,7 @@ Enter the complete file path when prompted.
 
 ## Example Output
 
-![Project Output](screenshots/output.png)
+![Project Output]
 
 ## Author
 
