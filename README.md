@@ -28,12 +28,13 @@ Enter the complete file path when prompted.
 
 ## Example Output
 
-![Project Output]
+![Project Output](screenshots/output.png)
 
 ## Author
 
 **Yogesh Niranjan**
 
+M.Sc. Forensic Science | Digital Forensics Enthusiast
 
 
 
